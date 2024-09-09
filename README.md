@@ -7,9 +7,9 @@ https://drive.google.com/file/d/1sKind5zRFStMpeO31AX8m99IuLa_AR-2/view?usp=drive
 The content I have Learned :
 ### 1.	Introduction to Power BI ###
     Power BI Desktop Interface and Workflow
-### 2.	Connecting and Shaping Data
+### 2.	Connecting and Shaping Data ###
     Power BI front end vs Back end, Data connectors, Power Query Editor, Table transformation, Connecting to Database, Extracting data from the Web, Data QA & Profiling tool, Text tools,     Numeric tools, Calander table, Index and conditional columns, Grouping and Aggregating, Power Query best practices
-### 3.	Creating a Data Model
+### 3.	Creating a Data Model ###
     Data Modelling, Data Normalization, Primary and Foreign keys, Relationships with and Merged tables, Creating, managing, and editing relationships, Relationship cardinality,       
     Connecting multiple fact tables, Bi-directional tables and Ambiguity, Model Layouts, Data Formats and categories, Creating hierarchies, Data Model best practices
 ### 4.	Calculated field with DAX
