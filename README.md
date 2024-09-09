@@ -24,4 +24,12 @@ The content I have Learned :
 ### 7.	Power BI Optimizing tool
     The optimizing ribbon, Pausing visuals, Optimising resets, Performance analyzer 
 ### 8.	Projects
-    AdventureWorks
+    AdventureWorks a fictional global manufacturing company that produces cycling equipment and accessories.
+    
+    Objective
+    * Use Power BI desktop to connect and transform that raw data available in CSV files,
+    * Build a relational data model
+    * Create calculated columns and measures with DAX finally, design an interactive dashboard to help visualize and analyze that data.
+    * Design an interactive dashboard to visualize and analyze data 
+        track KPIs, (sales, revenue, profit, and returns), compare performance across regions, analyze product-level trends, and identify high-value customers
+
